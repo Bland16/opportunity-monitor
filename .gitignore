@@ -1,0 +1,9 @@
+# Secrets (never publish) — the optional Auto-generate key
+apikey.txt
+
+# Runtime / local artifacts
+server.log
+__pycache__/
+*.pyc
+.venv/
+venv/
